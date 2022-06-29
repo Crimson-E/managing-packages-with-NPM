@@ -2,6 +2,7 @@
 	"author": "Erica Pineda",
 	"description": "An awesome project for pachage.json",
 	"keywords": [ "freecodecamp", "related", "words" ],
+	"license": "BSD",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
