@@ -3,6 +3,7 @@
 	"description": "An awesome project for pachage.json",
 	"keywords": [ "freecodecamp", "related", "words" ],
 	"license": "BSD",
+	"version": "1.2.0",
 	"name": "fcc-learn-npm-package-json",
 	"dependencies": {
 		"express": "^4.14.0"
